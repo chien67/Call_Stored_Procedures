@@ -1,15 +1,27 @@
 # Call Stored Procedure
 
 ## Technical:
-+ C#
-+ Stored Procedure
-+ SQL Sever
-+ Console Application
-+ .Net FrameWork Version 4.6.1
-
-### Learn more:
-+ Git : new repository, pull(git clone), git add->git commit-> git status -> git push
-+ PowerShell
-+ HTML
++ Windows 10
 + Visual Studio 2017 Enterprise
-+ CSS, JavaScript
++ .NET Framework Version 4.6.1
++ Console Application (C#)
++ SQL Server
++ Stored Procedure
++ ADO.NET
++ SqlCommand, SqlConnection
++ SqlDataReader (DBNull.Value)
+
+## Learn more:
+
+### Git: new repository
++ git init
++ git clone
++ git pull
++ git add .
++ git commit -m "message"
++ git status
++ git push
+
+### PowerShell
++ Arrow Up/Down
++ Arrow Left/Right
