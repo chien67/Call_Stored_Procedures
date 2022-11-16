@@ -10,4 +10,5 @@
 ### Learn more:
 + Git : new repository, pull(git clone), git add->git commit-> git status -> git push
 + PowerShell
++ Visual Studio 2017 enterprise
 
