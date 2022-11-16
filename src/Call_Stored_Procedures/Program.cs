@@ -88,7 +88,8 @@ namespace Call_Stored_Procedures
                             }
                             if (reader["Address"] != DBNull.Value)
                             {
-                                Address = reader["Address"].ToString();
+                                //Address = reader["Address"].ToString();
+                                Address = GetString(reader["Address"]);
                             }
                             Console.WriteLine("{0}\t{1}\t{2}\t{3}\t{4}\t{5}",id,name,Production_Date,Is_Error,Price,Address);
                         }
